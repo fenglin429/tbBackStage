@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body,
+#app
+{
+    height: 100%;
+}
+
+#app{
+    background-color: #334154;
+  }
+  .list {
+    width: 100%;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
+
+  }
+
+  
