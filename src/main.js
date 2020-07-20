@@ -9,6 +9,7 @@ import './assets/styles/reset.css';
 
 Vue.use(ElementUI);
 
+
 Vue.config.productionTip = false
 
 new Vue({
